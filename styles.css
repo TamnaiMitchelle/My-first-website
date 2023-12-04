@@ -10,7 +10,10 @@ html {background-color: silver;
     
 
 }
+img {box-sizing: border-box;
+    
 
+}
 p {
     color: brown;
   }
